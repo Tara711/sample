@@ -1,0 +1,29 @@
+nav {
+  display: inline-block;
+  font-size: 20px;
+}
+nav .header {
+  float: left;
+  margin-left: 20px;
+}
+nav .link {
+  float: right;
+  margin-top: 27px;
+  margin-left: 300px;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav ul li {
+  display: inline-block;
+  padding-right: 80px;
+}
+nav a {
+  display: block;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  text-transform: uppercase;
+}
